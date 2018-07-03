@@ -23,4 +23,4 @@ Balabale
 
 ## Contact me
 
-[mx54039q@bupt.edu.cn](mailto:mx54039q@bupu.edu.cn)
+[mx54039q@bupt.edu.cn](mailto:mx54039q@bupt.edu.cn)

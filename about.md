@@ -8,8 +8,8 @@ Self Intro
 
 ## Education
 
-* Bachelor from NCEPU
-* Bachelor from BUPT
+* Bachelor Degree from NCEPU
+* Master Degree from BUPT
 
 ## Roles
 
@@ -25,19 +25,19 @@ Boss
 
 * [**This is my first achievement**](#) 
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+   Balabala
 
 ***
 
 * [**This is my second achievement**](#) 
 
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+    Balabala
 
 ***
 
 * [**This is my third achievement**](#) 
 
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
+   Balabala
 
 
 ## Contact me
