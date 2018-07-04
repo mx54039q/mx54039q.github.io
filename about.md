@@ -4,41 +4,29 @@ title: About
 permalink: /about/
 ---
 
-Self Intro
+I am working towards my M.S. degree in Information and Communication Engineering at Beijing University of Post and Telecommunications (BUPT). I am working with Prof. [Weihong Deng](http://www.pris.net.cn/introduction/teacher/dengweihong) in Pattern Recognition and Intelligent System Lab (PRIS). 
+
+My research interests include Computer Vision, Machine Learning and Generative Adversarial Networks.
 
 ## Education
 
-* Bachelor Degree from NCEPU
-* Master Degree from BUPT
+* 2016 ~ Present, Master Degree in Beijing University of Post and Telecommunications (BUPT)
+* 2012 ~ 2016,    Bachelor Degree in North China Electric and Power University (NCEPU)
 
-## Roles
+## Conferrence
 
-Boss
+
 
 ## Skills
 
 * **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
  
     
-## Achievements
+## Working Experience
 
-
-* [**This is my first achievement**](#) 
+* [**Alibaba IDST**](#) 
    
    Balabala
-
-***
-
-* [**This is my second achievement**](#) 
-
-    Balabala
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Balabala
-
 
 ## Contact me
 
