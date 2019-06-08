@@ -4,10 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/mx54039q/FFGAN)
+### [Project 1](https://github.com/mx54039q/fnm)
 
-Feature-embedded and Attention Generative Adversarial Network (FA-GAN) for synthesizing a frontal, neutral expression, photorealistic
-face image from a single face image taken in the wild.
+Unsupervised Face Normalization with Extreme Pose and Expression in the Wild.
 
 ***
 

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am working towards my M.S. degree in Information and Communication Engineering at Beijing University of Post and Telecommunications (BUPT). I am under the supervision of Prof. [<font color=#0099ff>Weihong Deng</font>](http://www.pris.net.cn/introduction/teacher/dengweihong) in Pattern Recognition and Intelligent System Lab (PRIS). 
+I am working towards my M.S. degree in Information and Communication Engineering at Beijing University of Post and Telecommunications (BUPT). I am under the supervision of Prof. [Weihong Deng](http://www.pris.net.cn/introduction/teacher/dengweihong) in Pattern Recognition and Intelligent System Lab (PRIS). 
 
 My research interests include Computer Vision, Machine Learning and Generative Adversarial Networks.
 
@@ -16,6 +16,7 @@ My research interests include Computer Vision, Machine Learning and Generative A
 ## Publications
 
 * **Yichen Qian**, Weihong Deng and Jiani Hu, **Task Specific Networks for Identity and Face Variation**, IEEE  International Conference on Automatic Face and Gesture Recognition (FG), 2018.
+* **Yichen Qian**, Weihong Deng and Jiani Hu, **Unsupervised Face Normalization with Extreme Pose and Expression in the Wild**, IEEE  Conference on Computer Vision and Pattern Recognition(CVPR), 2019.
     
 ## Working Experience
 
